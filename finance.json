@@ -1,0 +1,47 @@
+{
+    "assets": {
+        "cash": 50000,
+        "bank_balance": 200000,
+        "property": 280000
+    },
+    "liabilities": {
+        "loans": 100000,
+        "credit_card_debt": 20000
+    },
+    "transactions": [
+        {
+            "date": "2025-08-01",
+            "type": "income",
+            "amount": 50000
+        },
+        {
+            "date": "2025-08-05",
+            "type": "expense",
+            "amount": 2000
+        },
+        {
+            "date": "2025-08-10",
+            "type": "expense",
+            "amount": 5000
+        },
+        {
+            "date": "2025-08-15",
+            "type": "income",
+            "amount": 10000
+        }
+    ],
+    "epf": {
+        "contributions": 100000,
+        "employer_match": 50000,
+        "current_balance": 150000
+    },
+    "credit_score": {
+        "score": 750,
+        "rating": "Good"
+    },
+    "investments": {
+        "stocks": 100000,
+        "mutual_funds": 80000,
+        "bonds": 50000
+    }
+}
